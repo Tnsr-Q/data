@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 # Custom styles for retro feel
-retro_style = """
+const retro_style 
 <style>
 body {
     background: radial-gradient(ellipse at center, #000000 0%, #001122 100%);
